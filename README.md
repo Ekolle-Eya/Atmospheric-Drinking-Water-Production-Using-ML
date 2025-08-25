@@ -36,4 +36,8 @@ Included 4 model evaluation techniques
 3) Cross Validation Score (using 5 folds)
 
 ### Results
-The results of the predictionso of all models was examined, evaluated and compared amongst each other. It showed that the best performing model is Multiple Linear Regression with the lowest MSE ((45525.0)and highest R-squared (0.95).The cross validation score showed an exception result of R-squared in 5 folds
+The results of the predictionso of all models was examined, evaluated and compared amongst each other. It showed that the best performing model is Multiple Linear Regression with the lowest MSE ((45525.0)and highest R-squared (0.95).The cross validation score showed an exception result of R-squared in 5 folds.
+
+### References
+1) EKCOLAB Organization
+2) HuProTec Switzerland
