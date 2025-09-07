@@ -6,7 +6,7 @@ The features in the data include Temperature, Humidity, Water Production_Day, Av
 
 
 ### Data
-The primary data source used for the machine learning algorithm is the 'AWG_Solution.csv' which contained all detailed information. This is a real world data based on my research that was conducted in Zambia in 9 districts. The data was collected from AWG machine made by HuProTect Switzerland (a company that produces portable drinking water from air).
+The primary data source used for the machine learning algorithm is the **'AWG_Solution.csv'** which contained all detailed information. This is a real world data based on my research that was conducted in Zambia in 9 districts. The data was collected from AWG machine made by HuProTect Switzerland (a company that produces portable drinking water from air).
 
 ### Tools
 1) Google Colab
