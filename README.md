@@ -24,7 +24,7 @@ Created regression plots of the training data using Matplotlip and Seaborn to ev
 Algorithms involved Regression
 1) Linear Regression
 2) Multiple Linear Regression
-3) Rndom Forest Regressor
+3) Random Forest Regressor
 
 ### Model Training
 The training involved spliting the data into training set and test with '80%' of the ovarall data allocated for training and '20%' for testing.
