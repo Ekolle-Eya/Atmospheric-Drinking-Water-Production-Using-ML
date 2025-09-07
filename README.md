@@ -30,13 +30,13 @@ Algorithms involved Regression
 The training involved spliting the data into training set and test with '80%' of the ovarall data allocated for training and '20%' for testing.
 
 ### Model Evaluation
-Included 4 model evaluation techniques
+Included 3 model evaluation techniques
 1) Root Mean Squared Error (RMSE)
 2) R-squared (R²)
 3) Cross Validation Score (using 5 folds)
 
 ### Results
-The results of the predictionso of all models was examined, evaluated and compared amongst each other. It showed that the best performing model is Multiple Linear Regression with the lowest MSE ((45525.0)and highest R-squared (0.95).The cross validation score showed an exception result of R-squared in 5 folds (0.96570862, 0.94176996, 0.9349316 , 0.98106729, 0.93848702).
+The results of the predictionso of all models was examined, evaluated and compared amongst each other. It showed that the best performing model is Multiple Linear Regression with the lowest MSE (45525.0)and highest R-squared (0.95).The cross validation score showed an exception result of R-squared in 5 folds (0.96570862, 0.94176996, 0.9349316 , 0.98106729, 0.93848702).
 
 ### References
 1) EKCOLAB Organization
